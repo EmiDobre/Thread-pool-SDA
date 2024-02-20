@@ -68,4 +68,3 @@ FINISH:
     -timpul total este suma timpului maxim din fiecare coada waiting existenta nenula la introducerea comenzii run, intrucat daca se introduce run max se termina toate taskurile din prima (lucru indeplinit de conditia in care calculez timpul: numarul de threaduri > waiting tasks si Q>exe)
 
 
-Punctajul obtinut local: 110/135.
